@@ -1,3 +1,3 @@
 # browserhomepage
 
-This is a local browser tab project creating a homepage for my home desktop computer.
+This is a local project creating a homepage for my home desktop computer.
