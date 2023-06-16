@@ -1,3 +1,3 @@
 # browserhomepage
 
-Set up local work area with GitHub desktop app
+This is a local browser tab project creating a homepage for my home desktop computer.

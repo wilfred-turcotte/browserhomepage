@@ -38,13 +38,28 @@ grid-row-gap: 0px;
 }
 
 .countdown{
+ 
     grid-area: 1 / 1 / 7 / 2;
     padding:16px;
     padding-top:35px;
-    font-size:18px;
+    text-align: center;
     background-color:#121212;
     height:100%;
 }
+.countdown img {
+    width:100px;
+}
+.countdown p {
+    font-size:18px;
+}
+#hours{
+    font-size: 18px;
+}
+#days {
+    font-size: 24px;
+}
+
+
 .header{
     grid-area: 1 / 2 / 2 / 6;
     text-align: center;
